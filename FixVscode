@@ -1,0 +1,3 @@
+# Fix vscode không connect được trên window 10
+Add new config host: Chọn nơi lưu config là `C:\ProgramData\ssh\ssh_config`
+Vào setting tìm `Remote SSH` đặt nơi lưu đúng cái ở trên
