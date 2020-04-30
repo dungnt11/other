@@ -1,0 +1,14 @@
+Following up the previously upvoted answer, tried to intentionally break the device driver from working normally.
+
+SUCCESSFULL!!
+
+1) Device manager > Mice and Pointing devices > PS/2 Compatible Mouse > Right Click and Select "Update Driver Software" > Browse My Computer for driver software > 'Let Me pick from a list of device drivers......."
+
+2) Untick "Show Compatible hardware"
+
+3) Select a driver other than "MICROSOFT : PS/2 Compatible Mouse"
+
+4) Restart and DONE!!!!!
+
+to revert back select the driver as "MICROSOFT : PS/2 Compatible Mouse" and restart :)
+
